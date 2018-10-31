@@ -110,6 +110,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Agricultural.cpp" />
+    <ClCompile Include="Basis.cpp" />
+    <ClCompile Include="Cheese.cpp" />
+    <ClCompile Include="Dairy.cpp" />
+    <ClCompile Include="Drink.cpp" />
+    <ClCompile Include="Fruit.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Other.cpp" />
+    <ClCompile Include="Package.cpp" />
+    <ClCompile Include="Store.cpp" />
+    <ClCompile Include="Vegetable..cpp" />
+    <ClCompile Include="Yogurt.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Agricultural.h" />
+    <ClInclude Include="Basis.h" />
+    <ClInclude Include="Cheese.h" />
+    <ClInclude Include="Dairy.h" />
+    <ClInclude Include="Drink.h" />
+    <ClInclude Include="Fruit.h" />
+    <ClInclude Include="Other.h" />
+    <ClInclude Include="Package.h" />
+    <ClInclude Include="Store.h" />
+    <ClInclude Include="Vegetable.h" />
+    <ClInclude Include="Yogurt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
